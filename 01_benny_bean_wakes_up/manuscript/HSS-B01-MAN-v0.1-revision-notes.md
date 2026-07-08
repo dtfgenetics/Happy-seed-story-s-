@@ -4,7 +4,7 @@ Project ID: HSS-000
 Book ID: HSS-B01  
 Asset ID: HSS-B01-MAN-REV  
 Title: Benny Bean Wakes Up Revision Notes  
-Version: v0.3  
+Version: v0.4  
 Status: Drafting  
 Source of Truth: GitHub  
 
@@ -38,20 +38,23 @@ Do not make Benny a mature plant by the end.
 | v0.2 | Sync | Created dedicated Google Doc review copy for full manuscript draft. | Make manuscript readable/editable in Docs. | Synced |
 | v0.2 | QA | Created manuscript QA review. | Identify fixes before review-ready status. | Needs polish |
 | v0.3 | Manuscript | Created polished full manuscript draft applying QA notes. | Improve Page 12 science flow, Page 21 emotional push, emergence sensory detail, and activity language. | Drafting |
+| v0.3 | Sync | Created dedicated Google Doc review copy for polish draft. | Make v0.3 readable/editable in Docs. | Synced |
 | v0.1 | Science Research | Created germination research notes. | Record source verification status and science lock gaps. | Partially verified |
 
 ## Current Active Manuscript File
 
 01_benny_bean_wakes_up/manuscript/HSS-B01-MAN-v0.3-full-manuscript-polish.md
 
-## Current Google Doc Review Copy
+## Current Google Doc Review Copies
 
 v0.2 full manuscript review copy:
 https://docs.google.com/document/d/1W8-I1jkjN3ck4vcC9-LVx4v3_RB_N6OsoL1jSd6_6nc/edit?usp=drivesdk
 
+v0.3 full manuscript polish review copy:
+https://docs.google.com/document/d/1c4uMWlUZcc8iYvUOWHn2n6DufkcCd0_HDvTx92a-qEQ/edit?usp=drivesdk
+
 ## Next Revision Needs
 
-- Create or sync a v0.3 Google Doc review copy.
 - Run QA on v0.3.
 - Research stronger official/education germination sources.
 - Decide whether v0.3 should become v0.5 working draft after QA.

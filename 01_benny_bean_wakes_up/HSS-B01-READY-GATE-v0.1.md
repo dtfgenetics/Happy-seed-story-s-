@@ -4,7 +4,7 @@ Project ID: HSS-000
 Book ID: HSS-B01  
 Asset ID: HSS-B01-READY  
 Title: Benny Bean Wakes Up Readiness Gate  
-Version: v0.1  
+Version: v0.2  
 Status: Drafting  
 Source of Truth: GitHub  
 
@@ -27,13 +27,13 @@ https://docs.google.com/document/d/1c4uMWlUZcc8iYvUOWHn2n6DufkcCd0_HDvTx92a-qEQ/
 
 ## Ready for In Review When
 
-- v0.5 working draft is read aloud and marked pass or needs fixes.
-- Germination science has stronger source verification.
-- Back matter is checked for kid-friendliness.
-- Classroom activity is checked for safety and repeatability.
-- Art continuity is checked against the growth sequence.
-- Publishing questions are listed as unresolved, not ignored.
-- Production Tracker has current manuscript, QA, and research status.
+- v0.5 working draft is read aloud and marked pass or needs fixes. STATUS: PASS.
+- Germination science has stronger source verification. STATUS: DRAFT-SAFE, NOT LOCKED.
+- Back matter is checked for kid-friendliness. STATUS: NEEDS FINAL FORMAT REVIEW.
+- Classroom activity is checked for safety and repeatability. STATUS: PASS FOR DRAFT.
+- Art continuity is checked against the growth sequence. STATUS: PASS FOR DRAFT.
+- Publishing questions are listed as unresolved, not ignored. STATUS: STARTED.
+- Production Tracker has current manuscript, QA, and research status. STATUS: PARTIALLY SYNCED.
 
 ## Ready for Approved When
 
@@ -56,12 +56,21 @@ https://docs.google.com/document/d/1c4uMWlUZcc8iYvUOWHn2n6DufkcCd0_HDvTx92a-qEQ/
 
 ## Current Blockers
 
-1. Stronger science source verification needed.
-2. Read-aloud pass needed.
-3. Production Tracker needs additional sync.
-4. Publishing trim/format decisions unresolved.
-5. Final illustration prompts not ready until manuscript approval.
+1. Stronger official/education science source verification still needed before science lock.
+2. Production Tracker needs additional sync beyond the current high-priority rows.
+3. Publishing trim/format decisions unresolved.
+4. Final illustration prompts not ready until manuscript approval.
+5. Final worksheet/layout formatting not started.
+
+## Completed Since v0.1
+
+- v0.3 manuscript QA completed.
+- v0.5 working draft control created.
+- Dedicated v0.3 Google Doc review copy created.
+- Read-aloud pass completed.
+- Publishing research notes started.
+- Tracker partially synced for active manuscript, readiness gate, QA, read-aloud, and research items.
 
 ## Next Action
 
-Create read-aloud pass for v0.5 working draft and continue source verification.
+Create a pre-review package that bundles the active manuscript, QA status, science status, classroom status, art status, and publishing blockers.

@@ -4,7 +4,7 @@ Project ID: HSS-000
 Book ID: HSS-B01  
 Asset ID: HSS-B01-MAN-REV  
 Title: Benny Bean Wakes Up Revision Notes  
-Version: v0.1  
+Version: v0.3  
 Status: Drafting  
 Source of Truth: GitHub  
 
@@ -34,11 +34,25 @@ Do not make Benny a mature plant by the end.
 | Version | Area | Change | Reason | Status |
 |---|---|---|---|---|
 | v0.1 | Structure | Created controlled manuscript master and page-by-page structure. | Establish Book 1 source files in GitHub. | Drafting |
+| v0.2 | Manuscript | Created full 32-page manuscript draft. | Move from structure into full story content. | Drafting |
+| v0.2 | Sync | Created dedicated Google Doc review copy for full manuscript draft. | Make manuscript readable/editable in Docs. | Synced |
+| v0.2 | QA | Created manuscript QA review. | Identify fixes before review-ready status. | Needs polish |
+| v0.3 | Manuscript | Created polished full manuscript draft applying QA notes. | Improve Page 12 science flow, Page 21 emotional push, emergence sensory detail, and activity language. | Drafting |
+| v0.1 | Science Research | Created germination research notes. | Record source verification status and science lock gaps. | Partially verified |
+
+## Current Active Manuscript File
+
+01_benny_bean_wakes_up/manuscript/HSS-B01-MAN-v0.3-full-manuscript-polish.md
+
+## Current Google Doc Review Copy
+
+v0.2 full manuscript review copy:
+https://docs.google.com/document/d/1W8-I1jkjN3ck4vcC9-LVx4v3_RB_N6OsoL1jSd6_6nc/edit?usp=drivesdk
 
 ## Next Revision Needs
 
-- Convert page-by-page structure into polished story text.
-- Check read-aloud rhythm.
-- Confirm back matter word count.
-- Create classroom pack source files.
-- Create illustration map only after story text is approved.
+- Create or sync a v0.3 Google Doc review copy.
+- Run QA on v0.3.
+- Research stronger official/education germination sources.
+- Decide whether v0.3 should become v0.5 working draft after QA.
+- Create illustration prompt draft only after manuscript approval.

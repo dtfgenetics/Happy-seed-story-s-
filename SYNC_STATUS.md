@@ -1,7 +1,7 @@
 # Sync Status
 
 Project ID: HSS-000  
-Version: v0.4  
+Version: v0.5  
 Status: Drafting  
 Source of Truth: GitHub  
 
@@ -15,7 +15,7 @@ GitHub: active source files created on main branch.
 Google Drive: master project folder and Season 1 book folders created.  
 Google Docs: Master Project Index, Professional Overseer Control System, Book 1 control review doc, Book 1 v0.2 full manuscript review doc, and Book 1 v0.3 polish review doc created.  
 Google Sheets: Master Production Tracker created with initial tabs; tracker still needs full sync with new GitHub files.  
-Book 1 Manuscript: full v0.3 polish draft exists in GitHub and has a dedicated Google Doc review copy.
+Book 1 Manuscript: v0.5 working draft control exists. Active body text remains the v0.3 polish draft until the next manuscript pass.
 
 ## Master Links
 
@@ -34,22 +34,22 @@ Book 1 full manuscript polish review doc v0.3: https://docs.google.com/document/
 - Book 1 control Google Doc contains the GitHub sync section v0.1.
 - Dedicated Book 1 full manuscript Google Doc contains the v0.2 manuscript draft.
 - Dedicated Book 1 polish Google Doc contains the v0.3 manuscript draft.
-- GitHub contains Book 1 manuscript master, page-by-page structure, full v0.2 manuscript draft, v0.3 polish draft, revision notes, education pack, art planning, publishing files, and publicity files.
+- GitHub contains Book 1 manuscript master, page-by-page structure, full v0.2 manuscript draft, v0.3 polish draft, v0.5 working draft control, revision notes, QA files, education pack, art planning, publishing files, and publicity files.
 
 ## Known Sync Gaps
 
 - Production Tracker needs all newly created GitHub files added to Asset Structure.
 - Decision Log and Research Log sheets need to be updated from GitHub source files.
 - Risk Register sheet needs to be updated from RISK_REGISTER.md.
-- Book 1 v0.3 manuscript needs story, science, read-aloud, classroom, and publishing QA before moving to In Review.
+- Book 1 v0.5 working draft needs stronger science-source verification and read-aloud review before moving to In Review.
 - Drive Book 1 subfolders exist, but final exports are not created yet.
 
 ## Next Sync Actions
 
 1. Sync the Google Sheets Production Tracker with all high-priority GitHub files.
-2. Create Book 1 QA review file for v0.3 manuscript.
-3. Research stronger official/education germination sources.
-4. Decide whether v0.3 becomes v0.5 working draft after QA.
+2. Research stronger official/education germination sources.
+3. Run read-aloud pass on active body text.
+4. Decide whether v0.5 moves to In Review.
 5. Update this file again after tracker sync is complete.
 
 ## Rule

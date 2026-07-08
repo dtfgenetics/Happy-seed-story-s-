@@ -1,7 +1,7 @@
 # Sync Status
 
 Project ID: HSS-000  
-Version: v0.3  
+Version: v0.4  
 Status: Drafting  
 Source of Truth: GitHub  
 
@@ -13,9 +13,9 @@ This file tracks the current synchronization state between GitHub, Google Drive,
 
 GitHub: active source files created on main branch.  
 Google Drive: master project folder and Season 1 book folders created.  
-Google Docs: Master Project Index, Professional Overseer Control System, Book 1 control review doc, and dedicated Book 1 full manuscript review doc created.  
+Google Docs: Master Project Index, Professional Overseer Control System, Book 1 control review doc, Book 1 v0.2 full manuscript review doc, and Book 1 v0.3 polish review doc created.  
 Google Sheets: Master Production Tracker created with initial tabs; tracker still needs full sync with new GitHub files.  
-Book 1 Manuscript: full v0.2 draft exists in GitHub and has a dedicated Google Doc review copy.
+Book 1 Manuscript: full v0.3 polish draft exists in GitHub and has a dedicated Google Doc review copy.
 
 ## Master Links
 
@@ -26,28 +26,31 @@ Professional Overseer Control System: https://docs.google.com/document/d/1fSMiI1
 Production Tracker: https://docs.google.com/spreadsheets/d/18PmgT5KIGTMbDNSpNDDpx2wIrlsDHpSJUs2fB75Ye5A/edit?usp=drivesdk  
 Book 1 control review doc: https://docs.google.com/document/d/1CGa6wZXDkiz-oEq1vb5gw9gqP9Imojzad0eGQc9qeqY/edit?usp=drivesdk  
 Book 1 full manuscript review doc v0.2: https://docs.google.com/document/d/1W8-I1jkjN3ck4vcC9-LVx4v3_RB_N6OsoL1jSd6_6nc/edit?usp=drivesdk  
+Book 1 full manuscript polish review doc v0.3: https://docs.google.com/document/d/1c4uMWlUZcc8iYvUOWHn2n6DufkcCd0_HDvTx92a-qEQ/edit?usp=drivesdk  
 
 ## Synced Items
 
 - GitHub README links to Drive, Docs, Sheets, and Book 1 review document.
 - Book 1 control Google Doc contains the GitHub sync section v0.1.
 - Dedicated Book 1 full manuscript Google Doc contains the v0.2 manuscript draft.
-- GitHub contains Book 1 manuscript master, page-by-page structure, full v0.2 manuscript draft, revision notes, education pack, art planning, publishing files, and publicity files.
+- Dedicated Book 1 polish Google Doc contains the v0.3 manuscript draft.
+- GitHub contains Book 1 manuscript master, page-by-page structure, full v0.2 manuscript draft, v0.3 polish draft, revision notes, education pack, art planning, publishing files, and publicity files.
 
 ## Known Sync Gaps
 
 - Production Tracker needs all newly created GitHub files added to Asset Structure.
 - Decision Log and Research Log sheets need to be updated from GitHub source files.
 - Risk Register sheet needs to be updated from RISK_REGISTER.md.
-- Book 1 manuscript needs story, science, read-aloud, classroom, and publishing QA before moving to In Review.
+- Book 1 v0.3 manuscript needs story, science, read-aloud, classroom, and publishing QA before moving to In Review.
 - Drive Book 1 subfolders exist, but final exports are not created yet.
 
 ## Next Sync Actions
 
 1. Sync the Google Sheets Production Tracker with all high-priority GitHub files.
-2. Create Book 1 QA review file for v0.2 manuscript.
-3. Revise manuscript after QA into v0.3 or v0.5.
-4. Update this file again after tracker sync is complete.
+2. Create Book 1 QA review file for v0.3 manuscript.
+3. Research stronger official/education germination sources.
+4. Decide whether v0.3 becomes v0.5 working draft after QA.
+5. Update this file again after tracker sync is complete.
 
 ## Rule
 

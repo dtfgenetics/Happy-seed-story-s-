@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "repository": "dtfgenetics/Happy-seed-story-s-",
+  "controlRepository": "dtfgenetics/Thc",
+  "defaultBranch": "main",
+  "canonicalDomains": [
+    "Happy Seed Stories publishing project",
+    "Seed Valley story and science source",
+    "story production controls"
+  ],
+  "sourceRoots": [
+    "00_master_control/",
+    "01_benny_bean_wakes_up/",
+    "02_penny_pea_rooty_secret/",
+    "03_sammy_stem_stands_tall/",
+    "04_lola_leaf_catches_the_light/",
+    "05_flora_flower_pollination_parade/",
+    "06_freddy_fruit_holds_a_surprise/",
+    "07_windy_seed_takes_a_trip/",
+    "08_grandma_compost_hidden_feast/",
+    "docs/",
+    "scripts/",
+    "ACCESSIBILITY_RULES.md",
+    "APPROVAL_WORKFLOW.md",
+    "ART_BIBLE.md",
+    "README.md"
+  ],
+  "protectedPaths": [
+    ".github/workflows/**"
+  ],
+  "verificationProfiles": {
+    "default": {
+      "commands": [
+        "bash scripts/validate-controls.sh"
+      ],
+      "ciAuthoritative": true
+    },
+    "controls": {
+      "commands": [
+        "bash scripts/validate-controls.sh"
+      ],
+      "ciAuthoritative": true
+    }
+  },
+  "production": {
+    "directMutation": false,
+    "integrationOwner": "dtfgenetics/Happy-seed-story-s-",
+    "notes": "Repository is canonical for controlled story/science/publishing source; Drive remains the durable home for large illustrations, proofs, exports and release assets. Release requires story, science, art, classroom and publishing gates."
+  }
+}
